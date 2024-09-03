@@ -1,4 +1,4 @@
-package com.relaxingsoundapp
+package com.relaxingsound.relaxingmusic
 
 import android.app.Application
 import com.facebook.react.PackageList

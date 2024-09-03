@@ -1,4 +1,4 @@
-package com.relaxingsoundapp
+package com.relaxingsound.relaxingmusic
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
